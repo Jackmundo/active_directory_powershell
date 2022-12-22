@@ -6,5 +6,3 @@ Some of the scripts include:
 - Removing and Adding to Groups
 
 I hope you enjoy using these scripts and let me know what you think of them. 
-
-Jack
