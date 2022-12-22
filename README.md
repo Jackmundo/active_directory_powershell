@@ -7,4 +7,4 @@ Some of the scripts include:
 
 I hope you enjoy using these scripts and let me know what you think of them. 
 
-- Jack
+Jack
